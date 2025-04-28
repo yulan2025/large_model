@@ -458,7 +458,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:429px;
+  width:135px;
   height:45px;
   background:inherit;
   background-color:rgba(10, 106, 249, 1);
@@ -473,9 +473,9 @@
 #u11 {
   border-width:0px;
   position:absolute;
-  left:206px;
+  left:500px;
   top:452px;
-  width:429px;
+  width:135px;
   height:45px;
   display:flex;
   font-size:14px;
@@ -492,7 +492,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u12_div {
   border-width:0px;
@@ -500,7 +499,7 @@
   left:0px;
   top:0px;
   width:628px;
-  height:351px;
+  height:269px;
   background:inherit;
   background-color:rgba(254, 255, 255, 1);
   box-sizing:border-box;
@@ -520,7 +519,7 @@
   left:7px;
   top:514px;
   width:628px;
-  height:351px;
+  height:269px;
   display:flex;
   font-size:14px;
   color:#FFFFFF;
@@ -544,7 +543,7 @@
   left:0px;
   top:0px;
   width:590px;
-  height:280px;
+  height:224px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -565,7 +564,7 @@
   left:32px;
   top:529px;
   width:590px;
-  height:280px;
+  height:224px;
   display:flex;
   font-family:'微软雅黑', sans-serif;
   font-weight:400;
@@ -611,7 +610,7 @@
   border-width:0px;
   position:absolute;
   left:32px;
-  top:832px;
+  top:745px;
   width:578px;
   height:28px;
   display:flex;
@@ -646,7 +645,7 @@
   border-width:0px;
   position:absolute;
   left:32px;
-  top:821px;
+  top:734px;
   width:566px;
   height:1px;
   display:flex;
